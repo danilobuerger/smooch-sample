@@ -1,0 +1,6 @@
+framework module Pods_smooch_sample {
+  umbrella header "Pods-smooch-sample-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.7.0)
+  - JSONWebToken (2.2.0)
+  - Smooch (6.7.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - JSONWebToken
+  - Smooch
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  JSONWebToken: 6fae32489632658d563dd6952a5c34020ea813e4
+  Smooch: bdf27d8a198e68c2c1fecdca413a915b76bd040b
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: ed3e774fd642eb35bee1304c6fbd5b914761e4ae
+
+COCOAPODS: 1.4.0
